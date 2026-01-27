@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "convert-source-map": "^1.0.0",
-    "duo": "^0.13.2",
-    "mocha": "^2.2.4",
+    "duo": "^0.15.7",
+    "mocha": "^10.6.0",
     "rimraf": "^2.4.1"
   }
 }
